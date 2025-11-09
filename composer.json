@@ -1,0 +1,19 @@
+{
+    "name": "azure-practices/php-web-app",
+    "description": "A PHP web application for Azure Web App deployment",
+    "type": "project",
+    "license": "MIT",
+    "require": {
+        "php": ">=7.4"
+    },
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    },
+    "config": {
+        "optimize-autoloader": true,
+        "preferred-install": "dist",
+        "sort-packages": true
+    }
+}
