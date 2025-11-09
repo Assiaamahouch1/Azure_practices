@@ -1,0 +1,15 @@
+{
+    "name": "azure-practices/simple-php-app",
+    "description": "A simple PHP application for Azure Web App deployment",
+    "type": "project",
+    "require": {
+        "php": ">=7.4"
+    },
+    "require-dev": {},
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Azure Practices Team"
+        }
+    ]
+}
